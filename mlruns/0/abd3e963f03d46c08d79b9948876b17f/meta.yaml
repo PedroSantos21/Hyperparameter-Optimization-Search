@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mestrado/2%C2%BA%20semestre/MO431A/project-4/mlruns/0/abd3e963f03d46c08d79b9948876b17f/artifacts
+end_time: 1588605568535
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: abd3e963f03d46c08d79b9948876b17f
+run_uuid: abd3e963f03d46c08d79b9948876b17f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1588605119972
+status: 3
+tags: []
+user_id: renat
