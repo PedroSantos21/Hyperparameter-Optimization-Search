@@ -1,5 +1,7 @@
 # Course MO431 - Project-4
-
+### Authors
+- Pedro Santos de R. Alves 
+- Renata Falguera Gonçalves
 
 ## Objetivo
 Vamos fazer a busca dos melhores hiperparametros para uma SVM para Regressão num banco de dados em particular.
