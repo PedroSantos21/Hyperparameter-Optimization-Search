@@ -1,11 +1,5 @@
-# Project-4
+# Course MO431 - Project-4
 
-4o Exercício de casa
-Jacques Wainer
-
-Pode ser feito individualmente ou em duplas.
-
-data para entrega: até meia note de 7/5 (5a feira)
 
 ## Objetivo
 Vamos fazer a busca dos melhores hiperparametros para uma SVM para Regressão num banco de dados em particular.
